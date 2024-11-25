@@ -1,0 +1,4 @@
+# https://developers.home-assistant.io/docs/add-ons/repository#repository-configuration
+name: FAS Home Assistant add-on repository
+url: 'https://github.com/koyukan/FAS_HASS_ADDON_REPO'
+maintainer: Kaan Koyukan <kaan@koyukan.com>
