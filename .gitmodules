@@ -1,0 +1,3 @@
+[submodule "FAS"]
+	path = FAS
+	url = https://github.com/koyukan/FAS.git
